@@ -1,0 +1,23 @@
+{
+  "name": "grunt-typescript-to-js",
+  "version": "1.0.0",
+  "description": "Try grunt for compiling typescript to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgotsuliak/GruntTypescriptToJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgotsuliak/GruntTypescriptToJS/issues"
+  },
+  "homepage": "https://github.com/vgotsuliak/GruntTypescriptToJS#readme",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-typescript": "^0.8.0"
+  }
+}
